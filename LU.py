@@ -1,3 +1,6 @@
+# Kuntal Ghosh
+# June 2021
+
 import numpy as np
 
 #A = [[1.0,-3.0,2.0],[3.0,-1.0,3.0],[2.0,-3.0,1.0]]
